@@ -1,4 +1,4 @@
-# 🇦🇫 Afghan Cities Culture
+# Afghan Cities Culture
 
 Explore the vibrant cultural heritage of Afghanistan's cities through an interactive web experience.
 
